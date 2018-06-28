@@ -1,2 +1,2 @@
 # PracticeForBasic
-PracticeForBasic  for learn or for review as new coder
+PracticeForBasic  for learn or for review as new a coder
